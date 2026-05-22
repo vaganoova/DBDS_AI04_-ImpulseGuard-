@@ -1,4 +1,4 @@
-# DBDS_AI04_-ImpulseGuard-
+# DBDS_AI04_ImpulseGuard
 
 ## Project Overview
 ImpulseGuard is an AI-powered system designed to detect impulsive purchases before a transaction is completed. The system analyzes user spending behavior and predicts whether a purchase is impulsive or planned.
